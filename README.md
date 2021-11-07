@@ -1,5 +1,5 @@
 # Breast-Cancer-Wisconsin-Diagnostic-Data-Set
-predict malign or benign tumor with multi-variable dataset
+Predict malign or benign tumor with multi-variable dataset
 
 ## Including Topics
 ML/ Supervised Learning/ PCA analysis
